@@ -14,7 +14,7 @@ BillSwift es una aplicación de escritorio desarrollada en Python que permite ge
 
 ## Instalación y ejecución
 - El archivo **BillSwift.exe** es un instalador que permite instalar la aplicación de escritorio en un computador con Windows. Una vez instalado, se puede ejecutar la aplicación desde el menú de inicio.
-- Para ejecutar desde el código fuente es necesario ejecutar el archivo main
+- Para ejecutar desde el código fuente es necesario ejecutar el archivo main de la carpeta principal
 ```sh
 python main.py
 ```
