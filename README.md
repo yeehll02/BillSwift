@@ -19,7 +19,7 @@ BillSwift es una aplicación de escritorio desarrollada en Python que permite ge
 python main.py
 ```
 
-Imágenes de muestra sobre de la aplicación
+## Imágenes de muestra sobre de la aplicación
 
 ![Screenshot 2025-04-21 000536](https://github.com/user-attachments/assets/fa3e4633-1439-4036-a228-971749225587)
 ![Screenshot 2025-04-21 000617](https://github.com/user-attachments/assets/ea2fe38e-55d5-46db-996e-b43ed5242f89)
