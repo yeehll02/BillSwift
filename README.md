@@ -1,5 +1,5 @@
 # Sistema de Facturación - BillSwift
-BillSwift es una aplicación de escritorio desarrollada en Python que permite generar facturas de manera automática y exportarlas en formato PDF. Está diseñada para pequeñas y medianas empresas que buscan una solución rápida, eficiente y sin conexión a internet.
+BillSwift es una aplicación de escritorio desarrollada en Python que permite generar facturas de manera automática y exportarlas en formato PDF. Está diseñada para pequeñas y medianas empresas que buscan una solución rápida, eficiente y sin conexión a Internet.
 
 ## Funcionalidades:
 - Registro de productos
